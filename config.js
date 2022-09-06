@@ -48,7 +48,7 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "swag Bot MD v3" //ur bot name
+global.botname = "SWAG sir🦄 Bot MD v3" //ur bot name
 global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "swag sir Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
