@@ -42,7 +42,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['919656593170'] //ur owner number
-global.ownername = "😚nitheesh"
+global.ownername = "NITHEESH🦄"
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
@@ -51,8 +51,8 @@ global.location = "India, Mizoram, Aizawl" //ur location
 global.botname = "swag Bot MD v3" //ur bot name
 global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.packname = "swag sir Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "🦄swag sir"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['919656593170'] //ur owner tag
